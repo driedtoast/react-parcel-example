@@ -3,6 +3,7 @@
 ## Getting Started ##
 
 * Install nave: `npm install -g nave`
+* `nave auto`
 * Install packages: `npm install` 
 
 To run:
